@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+  <style>
+    text {
+      font-family: 'Playfair Display', serif;
+      font-weight: 500;
+      fill: #8e6c88;
+    }
+  </style>
+  <text x="0" y="35" font-size="30">Iye Essentials</text>
+</svg>

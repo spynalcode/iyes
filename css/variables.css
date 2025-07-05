@@ -1,0 +1,12 @@
+:root {
+  --color-primary: #8e6c88;
+  --color-primary-dark: #6a4c6a;
+  --color-secondary: #333;
+  --color-accent: #d4af8e;
+  --color-light: #f9f5f0;
+  --color-white: #ffffff;
+  --color-gray: #e5e5e5;
+  --font-main: 'Playfair Display', serif;
+  --font-secondary: 'Montserrat', sans-serif;
+  --transition: all 0.3s ease;
+}
